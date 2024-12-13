@@ -29,7 +29,8 @@ This project integrates a variety of cutting-edge technologies to deliver a uniq
 - **Cloud Computing**: AWS, Azure, Google Cloud, Kubernetes, Docker
 - **DevSecOps**: Jenkins, GitLab CI/CD, Terraform, Prometheus, Grafana, Sentry
 - **Programming Languages**: Python, Go, C++
-
+- **DataBases**: PostgreSQL
+- **Cloud**: AWS
 ---
 
 ## 🛠️ Architecture
